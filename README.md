@@ -10,7 +10,7 @@
 ### Array
 | # | Title | Solution | Note |
 |---| ----- | -------- | ---- |
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python]() | 1. Hash O(n) and O(n) space.<br>2. Sort and search with two points O(n) and O(1) space. |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/dev/0001_two_sum.py) | 1. Hash O(n) and O(n) space.<br>2. Sort and search with two points O(n) and O(1) space. |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Python]() | 1. Set and compare length<br>2. Sort and check i,i +1|
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/contains-duplicate/) | [Python]() | 1. Set and compare length<br>2. Sort and check i,i +1|
 
