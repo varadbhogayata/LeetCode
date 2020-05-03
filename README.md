@@ -10,7 +10,7 @@
 ### Array
 | # | Title | Solution |
 |---| ----- | -------- |
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/dev/0001_two_sum.py) |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0001_two_sum.py) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/dev/leetcode-problems/0217_contains_duplicate.py) |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/contains-duplicate/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/dev/leetcode-problems/0238_product_of_array_except_self.py) |
 | 1437 | [Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/dev/leetcode-problems/1437_check_if_all_1s_are_at_least_length_K_places_away.py) |
