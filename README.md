@@ -13,6 +13,7 @@
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/dev/0001_two_sum.py) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/dev/leetcode-problems/0217_contains_duplicate.py) |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/contains-duplicate/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/dev/leetcode-problems/0238_product_of_array_except_self.py) |
+| 1437 | [Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/dev/leetcode-problems/1437_check_if_all_1s_are_at_least_length_K_places_away.py) |
 
 ### String
 | # | Title | Solution |
@@ -22,7 +23,7 @@
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/dev/leetcode-problems/0020_valid_parentheses.py) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/dev/leetcode-problems/0125_valid_palindrome.py)|
 | 1417 | [Reformat The String](https://leetcode.com/problems/reformat-the-string/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/dev/leetcode-problems/1417_reformat_the_string.py) |
-
+| 1436 | [Destination City](https://leetcode.com/problems/destination-city/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/dev/leetcode-problems/1436_destination_city.py) |
 
 ### Linked List
 | # | Title | Solution |
@@ -48,6 +49,7 @@
 | # | Title | Solution |
 |---| ----- | -------- |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/dev/leetcode-problems/0136_single_number.py) |
+| 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/dev/leetcode-problems/0771_jewels_and_stones.py) |
 | 1418 | [Display Table of Food Orders](https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/dev/leetcode-problems/1418_display_table_of_food_orders_in_a_restaurant.py) |
 
 ### Math
