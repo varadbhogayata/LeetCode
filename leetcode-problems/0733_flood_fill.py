@@ -97,3 +97,11 @@ class Solution:
 
         dfs(sr, sc)
         return image
+
+soln = Solution()
+image = [[1,1,1],[1,1,0],[1,0,1]]
+sr, sc = 1, 1
+newColor = 2
+ans = soln.floodFill(image, sr, sc, newColor)
+# [[2, 2, 2], [2, 2, 0], [2, 0, 1]]
+print(ans)
