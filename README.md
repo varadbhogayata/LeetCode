@@ -78,6 +78,7 @@
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/dev/leetcode-problems/0074_search_a_2d_matrix.py) |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/dev/leetcode-problems/0278_first_bad_version.py) |
 | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/dev/leetcode-problems/0367_valid_perfect_square.py) |
+| 540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0540_single_element_in_a_sorted_array.py) |
 
 ### Binary Search Tree
 | # | Title | Solution |
