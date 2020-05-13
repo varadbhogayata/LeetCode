@@ -108,11 +108,12 @@
 |---| ----- | -------- |
 | 950  | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/dev/leetcode-problems/0950_reveal_cards_in_increasing_order.py) |
 
-<!---
+
 ### Greedy
 | # | Title | Solution |
 |---| ----- | -------- |
-
+| 402 | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/dev/leetcode-problems/0402_remove_k_digits.py) |
+<!---
 ### Graph
 | # | Title | Solution |
 |---| ----- | -------- |
