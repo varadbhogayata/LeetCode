@@ -1,6 +1,6 @@
 ## Overview
 * Open source implementations for basic data structures and algorithms: [Algorithms in Python](https://github.com/TheAlgorithms/Python) 
-------
+
 ### Array
 | # | Title | Solution |
 |---| ----- | -------- |
