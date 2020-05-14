@@ -1,9 +1,7 @@
 ## Overview
 * Open source implementations for basic data structures and algorithms: [Algorithms in Python](https://github.com/TheAlgorithms/Python) 
-
-### Problems
-
-#### Array
+------
+### Array
 | # | Title | Solution |
 |---| ----- | -------- |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0001_two_sum.py) |
@@ -155,13 +153,16 @@
 |---| ----- | -------- |
 | 1232 | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/1232_check_if_it_is_a_straight_line.py) |
 
+### Design
+| # | Title | Solution |
+|---| ----- | -------- |
+| 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0208_implement_trie_prefix_tree.py) |
+
 <!---
 |  | []() | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/) |
 
 
-### Design
-| # | Title | Solution |
-|---| ----- | -------- |
+
 
 ### Concurrency &hearts;
 | # | Title | Solution |
