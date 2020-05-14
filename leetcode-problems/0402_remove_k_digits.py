@@ -1,4 +1,9 @@
 """
+Approach 1: Brute-force [Time Limit Exceeded]
+
+Approach 2: Greedy with Stack
+- O(n), O(n)
+
 Use Monotonic stack method:
 - if newer element is less than stack.top, then remove the top element and append the new element.
 """

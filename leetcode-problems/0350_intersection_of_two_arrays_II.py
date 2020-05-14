@@ -1,3 +1,11 @@
+"""
+Approach 1: Hash Map
+- O(m + n), O(min(m, n))
+
+Approach 2: Sort
+- O(n log(n) + m log(m)), O(1)
+
+"""
 class Solution:
     def intersect(self, nums1, nums2):
         intersection_list = []

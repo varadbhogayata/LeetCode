@@ -1,3 +1,13 @@
+"""
+Approach #1 DFS [Accepted]
+- O(M*N), worst: O(M*N)
+
+Approach #2: BFS [Accepted]
+- O(M*N), O(min(M, N))
+
+Approach #3: Union Find (aka Disjoint Set) [Accepted]
+- O(M*N), O(M*N)
+"""
 class Solution:
     def dfs(self, mat):
         if not mat:
