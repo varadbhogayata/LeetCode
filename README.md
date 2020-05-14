@@ -1,9 +1,9 @@
-# Overview
+## Overview
 * Open source implementations for basic data structures and algorithms: [Algorithms in Python](https://github.com/TheAlgorithms/Python) 
 
-## LeetCode - Problems and Solutions
+### Problems
 
-### Array
+#### Array
 | # | Title | Solution |
 |---| ----- | -------- |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0001_two_sum.py) |
@@ -13,13 +13,13 @@
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0217_contains_duplicate.py) |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/contains-duplicate/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0238_product_of_array_except_self.py) |
 | 1437 | [Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/1437_check_if_all_1s_are_at_least_length_K_places_away.py) |
----
+
 ### Dynamic Programming
 | # | Title | Solution |
 |---| ----- | -------- |
 | 64 | [Minimum Path Sum](https://leetcode.com/problems/unique-paths-ii/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0064_minimum_path_sum.py) |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0070_climbing_stairs.py) |
----
+
 ### Math
 | # | Title | Solution |
 |---| ----- | -------- |
@@ -29,7 +29,7 @@
 | 202 | [Happy Number](https://leetcode.com/problems/count-primes/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0202_happy_number.py) |
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0258_add_digits.py) |
 | 1009 | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/1009_complement_of_base_10_integer.py) |
-***
+
 ### String
 | # | Title | Solution |
 |---| ----- | -------- |
@@ -40,7 +40,7 @@
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0383_ransom_note.py) |
 | 1417 | [Reformat The String](https://leetcode.com/problems/reformat-the-string/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/1417_reformat_the_string.py) |
 | 1436 | [Destination City](https://leetcode.com/problems/destination-city/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/1436_destination_city.py) |
-___
+
 ### Hash Table
 | # | Title | Solution |
 |---| ----- | -------- |
@@ -49,7 +49,7 @@ ___
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0387_first_unique_character_in_a_string.py) |
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0771_jewels_and_stones.py) |
 | 1418 | [Display Table of Food Orders](https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/1418_display_table_of_food_orders_in_a_restaurant.py) |
-* * *
+
 ### Binary Search
 | # | Title | Solution |
 |---| ----- | -------- |
@@ -58,7 +58,7 @@ ___
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0278_first_bad_version.py) |
 | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0367_valid_perfect_square.py) |
 | 540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0540_single_element_in_a_sorted_array.py) |
-_ _ _
+
 ### Two Pointers
 | # | Title | Solution |
 |---| ----- | -------- |
@@ -88,7 +88,6 @@ _ _ _
 | # | Title | Solution |
 |---| ----- | -------- |
 | 993 | [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0993_cousins_in_binary_tree.py) |
-
 
 ### Binary Search Tree
 | # | Title | Solution |
@@ -145,7 +144,6 @@ _ _ _
 ### Recursion
 | # | Title | Solution |
 |---| ----- | -------- |
-|  | []() | [Python]() |
 
 ### Simulation
 | # | Title | Solution |
@@ -158,6 +156,7 @@ _ _ _
 | 1232 | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/1232_check_if_it_is_a_straight_line.py) |
 
 <!---
+|  | []() | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/) |
 
 
 ### Design
@@ -167,5 +166,4 @@ _ _ _
 ### Concurrency &hearts;
 | # | Title | Solution |
 |---| ----- | -------- |
-
 --->
