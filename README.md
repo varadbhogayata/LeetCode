@@ -10,11 +10,14 @@
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0118_pascals_triangle.py) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0217_contains_duplicate.py) |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/contains-duplicate/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0238_product_of_array_except_self.py) |
+| 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0643_maximum_average_subarray_I.py) |
+| 918 | [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0918_maximum_sum_circular_subarray.py) |
 | 1437 | [Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/1437_check_if_all_1s_are_at_least_length_K_places_away.py) |
 
 ### Dynamic Programming
 | # | Title | Solution |
 |---| ----- | -------- |
+| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0053_maximum_subarray.py) |
 | 64 | [Minimum Path Sum](https://leetcode.com/problems/unique-paths-ii/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0064_minimum_path_sum.py) |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0070_climbing_stairs.py) |
 
