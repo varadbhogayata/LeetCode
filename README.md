@@ -37,7 +37,6 @@
 |---| ----- | -------- |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0013_roman_to_integer.py) |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/roman-to-integer/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0014_longest_common_prefix.py) |
-| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0020_valid_parentheses.py) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0125_valid_palindrome.py)|
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0383_ransom_note.py) |
 | 1417 | [Reformat The String](https://leetcode.com/problems/reformat-the-string/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/1417_reformat_the_string.py) |
@@ -99,6 +98,7 @@
 ### Stack
 | # | Title | Solution |
 |---| ----- | -------- |
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0020_valid_parentheses.py) |
 
 ### Queue
 | # | Title | Solution |
