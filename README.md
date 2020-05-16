@@ -4,11 +4,9 @@
 ### Array
 | # | Title | Solution |
 |---| ----- | -------- |
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0001_two_sum.py) |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0054_spiral_matrix.py) |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0066_plus_one.py) |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0118_pascals_triangle.py) |
-| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0217_contains_duplicate.py) |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/contains-duplicate/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0238_product_of_array_except_self.py) |
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0643_maximum_average_subarray_I.py) |
 | 918 | [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0918_maximum_sum_circular_subarray.py) |
@@ -27,8 +25,6 @@
 |---| ----- | -------- |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0007_reverse_integer.py) |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0009_palindrome_number.py) |
-| 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0069_sqrt_x.py) |
-| 202 | [Happy Number](https://leetcode.com/problems/count-primes/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0202_happy_number.py) |
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0258_add_digits.py) |
 | 1009 | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/1009_complement_of_base_10_integer.py) |
 
@@ -37,7 +33,6 @@
 |---| ----- | -------- |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0013_roman_to_integer.py) |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/roman-to-integer/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0014_longest_common_prefix.py) |
-| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0125_valid_palindrome.py)|
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0383_ransom_note.py) |
 | 1417 | [Reformat The String](https://leetcode.com/problems/reformat-the-string/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/1417_reformat_the_string.py) |
 | 1436 | [Destination City](https://leetcode.com/problems/destination-city/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/1436_destination_city.py) |
@@ -45,7 +40,10 @@
 ### Hash Table
 | # | Title | Solution |
 |---| ----- | -------- |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0001_two_sum.py) |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0136_single_number.py) |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0217_contains_duplicate.py) |
+| 202 | [Happy Number](https://leetcode.com/problems/count-primes/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0202_happy_number.py) |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0242_valid_anagram.py) |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0387_first_unique_character_in_a_string.py) |
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0771_jewels_and_stones.py) |
@@ -55,6 +53,7 @@
 | # | Title | Solution |
 |---| ----- | -------- |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0035_search_insert_position.py) |
+| 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0069_sqrt_x.py) |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0074_search_a_2d_matrix.py) |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0278_first_bad_version.py) |
 | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0367_valid_perfect_square.py) |
@@ -65,6 +64,7 @@
 |---| ----- | -------- |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0011_container_with_most_water.py) |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0042_trapping_rain_water.py) |
+| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0125_valid_palindrome.py)|
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0283_move_zeroes.py) |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0344_reverse_string.py) |
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0349_intersection_of_two_arrays.py) |
