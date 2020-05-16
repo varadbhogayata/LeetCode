@@ -20,6 +20,7 @@
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0053_maximum_subarray.py) |
 | 64 | [Minimum Path Sum](https://leetcode.com/problems/unique-paths-ii/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0064_minimum_path_sum.py) |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0070_climbing_stairs.py) |
+| 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0746_min_cost_climbing_stairs.py) |
 
 ### Math
 | # | Title | Solution |
@@ -74,6 +75,7 @@
 | # | Title | Solution |
 |---| ----- | -------- |
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0234_palindrome_linked_list.py) |
+| 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0328_odd_even_linked_list.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0876_middle_of_the_linked_list.py) |
 | 1290| [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/1290_convert_binary_number_in_a_linked_list_to_integer.py) |
 
