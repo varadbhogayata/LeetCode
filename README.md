@@ -56,6 +56,8 @@
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0069_sqrt_x.py) |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0074_search_a_2d_matrix.py) |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0278_first_bad_version.py) |
+| 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0349_intersection_of_two_arrays.py) |
+| 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0350_intersection_of_two_arrays_II.py) |
 | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0367_valid_perfect_square.py) |
 | 540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0540_single_element_in_a_sorted_array.py) |
 
@@ -63,12 +65,9 @@
 | # | Title | Solution |
 |---| ----- | -------- |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0011_container_with_most_water.py) |
-| 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0042_trapping_rain_water.py) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0125_valid_palindrome.py)|
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0283_move_zeroes.py) |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0344_reverse_string.py) |
-| 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0349_intersection_of_two_arrays.py) |
-| 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0350_intersection_of_two_arrays_II.py) |
 
 ### Linked List
 | # | Title | Solution |
@@ -81,15 +80,12 @@
 ### Depth-First Search
 | # | Title | Solution |
 |---| ----- | -------- |
-| 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0100_same_tree.py) |
-| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0104_maximum_depth_of_binary_tree.py) |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0200_number_of_islands.py) |
 | 733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0733_flood_fill.py) | 
 
 ### Breadth-First Search
 | # | Title | Solution |
 |---| ----- | -------- |
-| 993 | [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0993_cousins_in_binary_tree.py) |
 
 ### Binary Search Tree
 | # | Title | Solution |
@@ -99,6 +95,8 @@
 | # | Title | Solution |
 |---| ----- | -------- |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0020_valid_parentheses.py) |
+| 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0042_trapping_rain_water.py) |
+| 402 | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0402_remove_k_digits.py) |
 
 ### Queue
 | # | Title | Solution |
@@ -112,8 +110,11 @@
 ### Tree
 | # | Title | Solution |
 |---| ----- | -------- |
+| 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0100_same_tree.py) |
+| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0104_maximum_depth_of_binary_tree.py) |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0226_invert_binary_tree.py) |
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0617_merge_two_binary_trees.py) |
+| 993 | [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0993_cousins_in_binary_tree.py) |
 
 ### Graph
 | # | Title | Solution |
@@ -127,7 +128,6 @@
 ### Greedy
 | # | Title | Solution |
 |---| ----- | -------- |
-| 402 | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0402_remove_k_digits.py) |
 
 ### Divide & Conquer
 | # | Title | Solution |
