@@ -45,6 +45,7 @@
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0217_contains_duplicate.py) |
 | 202 | [Happy Number](https://leetcode.com/problems/count-primes/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0202_happy_number.py) |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0242_valid_anagram.py) |
+| 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0438_find_all_anagrams_in_a_string.py) | 
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0387_first_unique_character_in_a_string.py) |
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0771_jewels_and_stones.py) |
 | 1418 | [Display Table of Food Orders](https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/1418_display_table_of_food_orders_in_a_restaurant.py) |
