@@ -5,37 +5,37 @@ import collections
 My Approach:
 - dictionary keeping the count of the subarray of len(p).
 - if the count of substring(s) == count of p, then append the index.
-- O(n), O(n)
+- O(Ns + Np), O(1) (as max 26 characters)
 """
-
 
 class Solution:
     def findAnagrams(self, s: str, p: str) -> List[int]:
-        if not (s and p):
-            return None
-        n = len(p)
+        ns, np = len(s), len(p)
+        if ns < np:
+            return []
 
         # init s_window with first len(p) elements.
-        p_cnt, s_window = collections.Counter(p), collections.Counter(s[0:n])
+        p_cnt, s_window = collections.Counter(p), collections.Counter(s[0:np])
         ans = []
 
         # check for first substring of s. If same, then add 0th index.
         if s_window == p_cnt:
             ans.append(0)
 
-        for idx in range(n, len(s)):
+        for idx in range(np, ns):
             """
             c1 - last element of current window --> increment count
             c2 - first element of previous window --> decrement count
             """
-            c1, c2 = s[idx], s[idx - n]
+            c1, c2 = s[idx], s[idx - np]
             s_window[c1] = s_window.setdefault(c1, 0) + 1
-            s_window[c2] = s_window.setdefault(c2, 0) - 1
 
-            # remove items which have values = 0
-            s_window = {k: v for k, v in s_window.items() if v != 0}
+            if s_window[c2] > 1:
+                s_window[c2] = s_window.setdefault(c2, 0) - 1
+            else:
+                del s_window[c2]
 
             if s_window == p_cnt:
-                ans.append(idx - n + 1)
+                ans.append(idx - np + 1)
         return ans
 
