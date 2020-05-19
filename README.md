@@ -99,6 +99,7 @@
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0020_valid_parentheses.py) |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0042_trapping_rain_water.py) |
 | 402 | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0402_remove_k_digits.py) |
+| 901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0901_online_stock_span.py) |
 
 ### Queue
 | # | Title | Solution |
@@ -167,9 +168,6 @@
 
 <!---
 |  | []() | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/) |
-
-
-
 
 ### Concurrency &hearts;
 | # | Title | Solution |
