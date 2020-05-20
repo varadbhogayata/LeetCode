@@ -116,6 +116,7 @@
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0100_same_tree.py) |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0104_maximum_depth_of_binary_tree.py) |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0226_invert_binary_tree.py) |
+| 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0230_Kth_smallest_element_in_a_BST.py) |
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0617_merge_two_binary_trees.py) |
 | 993 | [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0993_cousins_in_binary_tree.py) |
 
