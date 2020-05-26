@@ -19,6 +19,8 @@
 | 64 | [Minimum Path Sum](https://leetcode.com/problems/unique-paths-ii/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0064_minimum_path_sum.py) |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0070_climbing_stairs.py) |
 | 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0746_min_cost_climbing_stairs.py) |
+| 1035 | [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/1035_uncrossed_lines.py) |
+| 1277 | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/1277_count_square_submatrices_with_all_ones.py) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/) |
 
 ### Math
 | # | Title | Solution |
@@ -47,6 +49,7 @@
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0242_valid_anagram.py) |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0387_first_unique_character_in_a_string.py) |
 | 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0438_find_all_anagrams_in_a_string.py) | 
+| 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0451_sort_characters_by_frequency.py) |
 | 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0567_permutation_in_string.py) |
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0771_jewels_and_stones.py) |
 | 1418 | [Display Table of Food Orders](https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/1418_display_table_of_food_orders_in_a_restaurant.py) |
@@ -70,7 +73,7 @@
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0125_valid_palindrome.py)|
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0283_move_zeroes.py) |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0344_reverse_string.py) |
-
+| 986 | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/) |
 ### Linked List
 | # | Title | Solution |
 |---| ----- | -------- |
@@ -119,6 +122,7 @@
 | 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0230_Kth_smallest_element_in_a_BST.py) |
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0617_merge_two_binary_trees.py) |
 | 993 | [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0993_cousins_in_binary_tree.py) |
+| 1008 | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/1008_construct_binary_search_tree_from_preorder_traversal.py) |
 
 ### Graph
 | # | Title | Solution |
