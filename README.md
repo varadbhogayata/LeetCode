@@ -50,6 +50,7 @@
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0387_first_unique_character_in_a_string.py) |
 | 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0438_find_all_anagrams_in_a_string.py) | 
 | 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0451_sort_characters_by_frequency.py) |
+| 525 | [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0525_contiguous_array.py) |
 | 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0567_permutation_in_string.py) |
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/0771_jewels_and_stones.py) |
 | 1418 | [Display Table of Food Orders](https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/) | [Python](https://github.com/varadbhogayata/LeetCode/blob/master/leetcode-problems/1418_display_table_of_food_orders_in_a_restaurant.py) |
